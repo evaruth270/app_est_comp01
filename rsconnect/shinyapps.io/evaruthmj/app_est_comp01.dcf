@@ -1,0 +1,12 @@
+name: app_est_comp01
+title: app_est_comp01
+username: evaruthmj
+account: evaruthmj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14514396
+bundleId:
+url: https://evaruthmj.shinyapps.io/app_est_comp01/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
